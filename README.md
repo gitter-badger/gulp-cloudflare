@@ -2,6 +2,8 @@
 
 # gulp-cloudflare
 
+[![Join the chat at https://gitter.im/frapsoft/gulp-cloudflare](https://badges.gitter.im/frapsoft/gulp-cloudflare.svg)](https://gitter.im/frapsoft/gulp-cloudflare?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 gulp task for cloudflare caching and development mode.  
 
 ### Tasks
