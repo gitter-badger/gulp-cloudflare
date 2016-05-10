@@ -1,0 +1,25 @@
+{
+  "name": "gulp-cloudflare",
+  "version": "1.0.0",
+  "description": "gulp task to clear cache, set development mode on / off for cloudflare",
+  "main": "cloudflare.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frapweb/gulp-cloudflare.git"
+  },
+  "keywords": [
+    "gulp",
+    "cloudflare",
+    "gulp-cloudflare",
+    "purge cache",
+    "frapsoft"
+  ],
+  "author": "Maik Ellerbrock",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
